@@ -1,0 +1,48 @@
+Theoretical Questions Assignment-II:
+Notes:
+•	Please be descriptive in your answer and write answers in your word even if you are taking 
+help from other websites for this.
+•	 Answers should be elaborative as if you’re trying to explain it to someone and use charts and plots if needed.
+•	Also practice answering this by speaking out loud and use pen and paper to explain to yourself.
+
+1. Explain Data-Preprocessing and What steps do you know?
+2. Explain Missing Value handle and Immutation techinques you know?
+3. Explain Categorical Value handle and all different techinques you know?
+4. Explain Outiler Detection technique and all techniques to detect and treat them?
+5. Explain Feature Scaling techinque and techniques you know?
+
+For below questions write down steps for performing steps of imputation:
+6. Explain under what scenarios you use mean,meadian,mode imputation with examples?
+7. How would you handle missing value for numerical values?
+8. How would you handle missing value for categorical values?
+
+For below questions write down steps for performing steps of encoding take inspiration from below link:
+https://towardsdatascience.com/ways-to-handle-categorical-data-before-train-ml-models-with-implementation-ffc213dc84ec
+9. What is Label Encoding technique, When would you use this,explain with scenario?
+10. What is One-hot Encoding technique, When would you use this,explain with scenario?
+11. What is Dummy Encoding technique, When would you use this,explain with scenario?
+12. What is Frequency Encoding technique, When would you use this,explain with scenario?
+13. What is Mean/Target Encoding technique, When would you use this,explain with scenario?
+14. What is Hash Encoding technique, When would you use this,explain with scenario?
+15. What is Binary/BaseNEncoder technique, When would you use this,explain with scenario?
+
+For below questions write down steps for performing steps of Outlier Handling:
+16. Explain IQR technique for Outlier-detection technique? Explain with Example?
+17. Explain Z-score technique for Outlier-detection technique? Explain with Example?
+
+For below questions write down steps for performing steps of Scaling Treatment:
+18. What is Normal Scaling? When would you use Normal Scaling technique.
+19. What is Standard Scaling? When would you Standard Scaling technique.
+
+
+Scenario Based Question:
+1. For the given Data Set Perform Pre-processing
+https://machinehack.com/hackathons/predicting_house_prices_in_bengaluru/data
+How would you approach Pre-processing for this? Describe the steps first and perform it in jupyter notebook.
+
+2. For the given Data Set Perform Pre-processing
+https://machinehack.com/hackathons/predict_the_price_of_books/notebooks
+How would you approach Pre-processing for this? Describe the steps first and perform it in jupyter notebook.
+
+
+
