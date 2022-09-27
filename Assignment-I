@@ -1,0 +1,40 @@
+Theoretical Questions Assignment-I :
+(All answers should be elaborative 150-200 words and plots and figure if needed).
+1. What is Exploratory Data Analysis? And why do we perform them?
+2. Explain how you perform an EDA? (You can make your own assupmtions for Data.)
+3. What is Univariate Analysis? Why do we perform them?
+4. What is Bi-Variate Analysis? Why do we perform them?
+5. What is Multi-variate Analysis? Why do we perform them?
+6. What are the typical steps in Data-Pre processing?
+
+7. What is Box plot and Violin plot? Explain with Example.
+6. What are Histogram and distribution plot? Explain with Example.
+
+8. What is Count plot and Pie-chart? Explain with Example
+
+9. What is Bar plot ? Explain different varities of barplot, e.g horizontal Bar plot , vertical Bar plot and Stacked Bar plot. Also, explain when you would use one over other?
+
+10. What is Scatter plot? Explain with Example
+
+11. What is Area chart and Line Chart? What is the difference between them explain usages with Example?
+
+12. What is Data Sanity check ?
+
+13. What is Missing value handling? Explain with different scenarios and steps to Identify and deal with them.
+
+14. What is Categorical value Handling? Explain with different scenarios and steps to Identify and deal with them.
+
+15. What is Outlier Detection?Explain with different scenarios and steps to Identify and deal with them.
+
+16. What is Feature Scaling?Explain with different scenarios and steps to Identify and deal with them.
+
+Scenario Based Questions:
+
+1. Given a data set with all numerical columns.
+https://gist.githubusercontent.com/tijptjik/9408623/raw/b237fa5848349a14a14e5d4107dc7897c21951f5/wine.csv
+How would you approach EDA for this? Describe the steps first and perform it in jupyter notebook.
+
+2. Given a dataset with combination of categorical and Numerical values.
+https://raw.githubusercontent.com/chandlergibbons/-Norway-Automobile-Market-ETL-Project/main/Rizky/fuel_econ.csv
+How would you approach EDA for this? Describe the steps first and perform it in jupyter notebook.
+
